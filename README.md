@@ -1,0 +1,1 @@
+This is a project to learn Automatic Speech Recognition (ASR) or Voice Recognition project using Whisper and Wave2Vec. In this project we will fine-tune Whisper from scratch which mean without using weights from pretrained and compare it with Whisper that already fine-tuned and Wav2Vec.
